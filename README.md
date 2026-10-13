@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="./assets/hero.png" width="100%" alt="夏日海边的编程时光：蓝天、白云与窗前使用笔记本电脑的原创动漫角色" />
+  <img src="./assets/shiroha-cg.png" width="100%" alt="Summer Pockets 鸣濑白羽（鳴瀬しろは）：蓝天海鸥下的栏杆回眸 CG" />
 </p>
+
+<p align="center"><sub>鳴瀬しろは · <a href="https://key.visualarts.gr.jp/summer/">Summer Pockets</a> · © VISUAL ARTS/Key</sub></p>
 
 <p align="center"><sub>✦ WELCOME TO MY LITTLE CORNER OF THE INTERNET ✦</sub></p>
 
